@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What's your best ML project?",
+    "answer": "My best ML project is TomatoGuard, where I built a disease detection system for tomato plants using TensorFlow and computer vision. It achieves 96% accuracy in identifying 10 different tomato diseases from leaf images. I deployed it using FastAPI in Docker containers for scalability."
+  },
+  {
+    "question": "Tell me about your backend experience",
+    "answer": "I have extensive experience with Node.js and Express, building RESTful APIs and GraphQL services. I've worked with MongoDB, Firebase, and SQL databases. For the HROne project, I implemented JWT authentication, role-based access control, and optimized database queries that improved API response times by 40%."
+  },
+  {
+    "question": "How do you approach responsive design?",
+    "answer": "I follow a mobile-first approach using Tailwind CSS with custom breakpoints. I ensure interfaces are accessible and work across devices. For complex UIs, I implement component-specific optimizations rather than just hiding elements on smaller screens."
+  },
+  {
+    "question": "What's your experience with React?",
+    "answer": "I've been working with React for over 3 years, building everything from e-commerce platforms to data visualization dashboards. I'm proficient with hooks, context API, Redux for state management, and React Query for data fetching. I emphasize component reusability and performance optimization."
+  },
+  {
+    "question": "Tell me about a challenging bug you fixed",
+    "answer": "In the Best-Book project, we had an elusive memory leak that caused performance degradation over time. After extensive profiling, I discovered it was caused by event listeners not being properly cleaned up in a carousel component. I implemented a custom hook to manage event listener lifecycles, which resolved the issue and improved overall application performance."
+  },
+  {
+    "question": "How do you stay updated with new technologies?",
+    "answer": "I follow tech blogs like Dev.to and Medium, participate in online communities like Stack Overflow and Reddit's programming subreddits, and build small proof-of-concept projects to test new frameworks or libraries. I also dedicate time each week to solve algorithm challenges on platforms like LeetCode to keep my problem-solving skills sharp."
+  },
+  {
+    "question": "What was your role in ScrapMap?",
+    "answer": "As the lead developer for ScrapMap, I architected the application using React with Mappls APIs. I implemented route optimization algorithms that reduced collection time by 30% and developed an intuitive interface for waste collection tracking. The project won the Mappls Appathon hackathon."
+  },
+  {
+    "question": "How many programming languages do you know?",
+    "answer": "I'm proficient in JavaScript/TypeScript, Python, and C++. I have working knowledge of Java and Go. I believe in choosing the right language for each project rather than forcing a preferred language."
+  },
+  {
+    "question": "What's your approach to testing?",
+    "answer": "I practice test-driven development where appropriate, writing unit tests with Jest and React Testing Library for frontend components, and Mocha/Chai for backend services. For critical features, I implement integration tests and end-to-end tests using Cypress. My goal is always to maintain at least 80% test coverage for core business logic."
+  },
+  {
+    "question": "Where do you see yourself in 5 years?",
+    "answer": "In five years, I aim to be a technical lead managing a team building innovative products. I want to deepen my expertise in AI and ML integration with web applications, potentially contributing to open-source projects in this space."
+  }
+]

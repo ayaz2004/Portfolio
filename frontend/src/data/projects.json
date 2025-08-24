@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "title": "TomatoGuard",
+    "description": "A machine learning application that detects diseases in tomato plants using image recognition. The model was trained on a dataset of healthy and diseased tomato leaves.",
+    "stack": ["TensorFlow", "FastAPI", "Docker", "React", "Tailwind"],
+    "github": "https://github.com/ayaz2004/TomatoGuard",
+    "demo": null,
+    "image": "/images/projects/TomatoGuard.png"
+  },
+  {
+    "id": 2,
+    "title": "Best-Book",
+    "description": "An online bookstore platform allowing users to browse, purchase, and review books. Features user authentication, payment processing, and responsive design.",
+    "stack": ["React", "Express", "MongoDB", "Tailwind", "JWT", "PhonePe"],
+    "github": "https://github.com/ayaz2004/Best-Book",
+    "demo": "https://best-book.onrender.com/",
+    "image": "/images/projects/BestBook.png"
+  },
+  {
+    "id": 3,
+    "title": "MyRenter",
+    "description": "A property rental management system that connects landlords and tenants. Includes features for listing properties, booking viewings, and managing contracts.",
+    "stack": ["React", "Express", "MongoDB", "Tailwind", "JWT"],
+    "github": "https://github.com/ayaz2004/MyRenter",
+    "demo": "https://myrenter.onrender.com/",
+    "image": "/images/projects/MyRenter.png"
+  },
+  {
+    "id": 4,
+    "title": "ScrapMap",
+    "description": "ScrapMap is a web-based waste management and recycling platform designed to provide real-time tracking of waste pickups, collector status, and operational analytics. While initially planned as a cross-platform system (web and Android), this implementation focuses on the web client built with React, Vite, Tailwind CSS, and Firebase. Through an interactive dashboard with maps, job assignment tools, and detailed reports, ScrapMap enables users, collectors, and admins to collaborate efficiently, making waste collection smarter, transparent, and eco-friendly.",
+    "stack": ["React", "Mappls API", "Node.js", "MongoDB"],
+    "github": "https://github.com/ayaznazir/ScrapMap",
+    "demo": null,
+    "image": "/images/projects/ScrapeMap.png"
+  },
+  {
+    "id": 5,
+    "title": "7WEBS",
+    "description": "This Book Review Platform, built as an assignment, is a full-stack web app where users can register, browse books with filters and pagination, view details with ratings and reviews, and contribute by adding books or sharing feedback. It uses Node.js, Express, and MongoDB on the backend, with React, Vite, and Tailwind CSS powering a clean and responsive frontend.",
+    "stack": ["React", "Tailwind"],
+    "github": "https://github.com/ayaz2004/7WEBS",
+    "demo": "https://7-webs.vercel.app/",
+    "image": "/images/projects/7WEBS.png"
+  },
+  {
+    "id": 6,
+    "title": "HROne-Frontend",
+    "description": "JSON Schema Builder is a modern, intuitive web app that helps developers create JSON schemas visually without worrying about complex syntax. With its clean interface, users can add fields, nest objects, preview data in real-time, and export ready-to-use schemas instantly. The tool includes quick-start templates, sample data generation, and responsive design, making it ideal for frontend developers, backend engineers, product managers, and students who work with structured data. Built with React 19, TypeScript, and Vite, it delivers a fast, user-friendly, and developer-focused experience.",
+    "stack": ["React", "Chart.js", "Redux", "Tailwind", "Material UI"],
+    "github": "https://github.com/ayaz2004/HROne-frontend",
+    "demo": "hr-one-frontend-delta.vercel.app",
+    "image": "/images/projects/hrone-frontend.png"
+  },
+  {
+    "id": 7,
+    "title": "HROne-Backend",
+    "description": "Ecommerce API is a FastAPI-based backend service designed for managing products and orders in an ecommerce system. It features async MongoDB integration with Motor, Pydantic-powered validation, and auto-generated API documentation. With product listing, order management, health checks, and Docker support, it provides a scalable foundation for ecommerce applications. Built with Python and FastAPI, the API ensures high performance, clean code structure, and containerized deployment readiness.",
+    "stack": ["Python", "MongoDB", "Docker"],
+    "github": "https://github.com/ayaz2004/HROne-backend",
+    "demo": null,
+    "image": "/images/projects/hrone-backend.png"
+  },
+  {
+    "id": 8,
+    "title": "Kartify",
+    "description": "Family Retail Predictor is a full-stack shopping platform designed to simplify family retail experiences. It allows families to create groups, manage shared shopping lists, track inventory, and review purchase history, all within a clean and responsive interface. Built with Express.js, MongoDB, React, Vite, and Tailwind CSS, the platform integrates authentication, real-time updates, and smooth animations, providing a modern, family-centric shopping assistant that makes everyday retail smarter and more organized.",
+    "stack": ["React", "Node.js", "MongoDB", "Stripe", "Redux"],
+    "github": "https://github.com/ayaz2004/Kartify",
+    "demo": null,
+    "image": "/images/projects/Kartify.png"
+  },
+  {
+    "id": 9,
+    "title": "Celestial-Matrix-Challenge",
+    "description": "Celestial Matrix is a modern, scalable comment system built with a Next.js frontend and a NestJS backend. It supports secure authentication, unlimited nested comments on the backend (with up to 5 levels displayed on the frontend), real-time notifications, and time-limited editing actions. Designed with PostgreSQL, TypeORM, and Docker for full-stack deployment, it delivers a clean, responsive UI with Tailwind CSS while ensuring performance, security, and scalability.",
+    "stack": ["React", "Node.js", "Socket.io", "MongoDB"],
+    "github": "https://github.com/ayaz2004/Celestial-Matrix-Challenge",
+    "demo": "https://celestial-matrix-challenge-frontend.onrender.com/",
+    "image": "/images/projects/Celestial.png"
+  },
+  {
+    "id": 10,
+    "title": "Sign-Language",
+    "description": "This Sign Language Recognition project demonstrates the use of MediaPipe to detect hand gestures and translate them into text in real time. The system is trained to recognize three fundamental signs: “Thank You”, “I Love You”, and “Hello”. By leveraging MediaPipe’s hand landmark detection and a gesture classification model, the application provides an accessible and lightweight solution for bridging communication between sign language users and the wider community.",
+    "stack": ["Python", "TensorFlow", "OpenCV"],
+    "github": "https://github.com/ayaz2004/SIgn-Language",
+    "demo": null,
+    "image": "/images/projects/SignLanguage.png"
+  },
+  {
+    "id": 11,
+    "title": "WasteWise",
+    "description": "WasteWise is a full-stack waste management platform that connects users, vendors, and administrators to make waste collection, recycling, and disposal smarter and more sustainable. Users can list their waste products, schedule pickups, and earn rewards for responsible disposal, while vendors manage services, certifications, and performance metrics. With real-time tracking, interactive maps, and a transparent reward system, WasteWise fosters eco-friendly practices and promotes a circular economy, reducing landfill waste and encouraging greener living.",
+    "stack": ["React Native", "Firebase", "TensorFlow Lite"],
+    "github": "https://github.com/ayaz2004/WasteWise",
+    "demo": null,
+    "image": "/images/projects/WasteWise.png"
+  }
+]

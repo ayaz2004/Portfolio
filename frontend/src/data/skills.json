@@ -1,0 +1,50 @@
+[
+  {
+    "category": "Frontend",
+    "skills": [
+      { "name": "React", "level": 90, "color": "#61DAFB" },
+      { "name": "TypeScript", "level": 85, "color": "#3178C6" },
+      { "name": "JavaScript", "level": 92, "color": "#F7DF1E" },
+      { "name": "HTML/CSS", "level": 95, "color": "#E34F26" },
+      { "name": "Tailwind CSS", "level": 90, "color": "#38B2AC" },
+      { "name": "Material UI", "level": 85, "color": "#0081CB" },
+      { "name": "Redux", "level": 80, "color": "#764ABC" },
+      { "name": "Framer Motion", "level": 75, "color": "#0055FF" },
+      { "name": "Three.js", "level": 70, "color": "#000000" }
+    ]
+  },
+  {
+    "category": "Backend",
+    "skills": [
+      { "name": "Node.js", "level": 85, "color": "#339933" },
+      { "name": "Express", "level": 88, "color": "#000000" },
+      { "name": "MongoDB", "level": 82, "color": "#47A248" },
+      { "name": "FastAPI", "level": 78, "color": "#009688" },
+      { "name": "Firebase", "level": 80, "color": "#FFCA28" },
+      { "name": "REST API", "level": 90, "color": "#0096D6" },
+      { "name": "GraphQL", "level": 75, "color": "#E10098" },
+      { "name": "JWT", "level": 85, "color": "#000000" }
+    ]
+  },
+  {
+    "category": "Machine Learning",
+    "skills": [
+      { "name": "TensorFlow", "level": 80, "color": "#FF6F00" },
+      { "name": "Python", "level": 85, "color": "#3776AB" },
+      { "name": "Computer Vision", "level": 75, "color": "#5C3EE8" },
+      { "name": "Data Analysis", "level": 78, "color": "#FF9E0F" },
+      { "name": "scikit-learn", "level": 76, "color": "#F7931E" }
+    ]
+  },
+  {
+    "category": "DevOps & Tools",
+    "skills": [
+      { "name": "Git", "level": 90, "color": "#F05032" },
+      { "name": "Docker", "level": 80, "color": "#2496ED" },
+      { "name": "AWS", "level": 75, "color": "#FF9900" },
+      { "name": "CI/CD", "level": 78, "color": "#4CAF50" },
+      { "name": "Webpack", "level": 82, "color": "#8DD6F9" },
+      { "name": "Vite", "level": 85, "color": "#646CFF" }
+    ]
+  }
+]
