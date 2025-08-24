@@ -93,7 +93,7 @@
     "id": 11,
     "title": "WasteWise",
     "description": "WasteWise is a full-stack waste management platform that connects users, vendors, and administrators to make waste collection, recycling, and disposal smarter and more sustainable. Users can list their waste products, schedule pickups, and earn rewards for responsible disposal, while vendors manage services, certifications, and performance metrics. With real-time tracking, interactive maps, and a transparent reward system, WasteWise fosters eco-friendly practices and promotes a circular economy, reducing landfill waste and encouraging greener living.",
-    "stack": ["React Native", "Firebase", "TensorFlow Lite"],
+    "stack": ["React", "MongoDB", "Tailwind"],
     "github": "https://github.com/ayaz2004/WasteWise",
     "demo": null,
     "image": "/images/projects/WasteWise.png"
